@@ -8,7 +8,7 @@ Installation
 -------------
 It was tested using Windows versions of Python 3.6 and Anaconda 4.4 with the R-essentials package.
 
-Copy `RWinOut` directly from the repository using the `curl` command:
+Copy `RWinOut` directly from the repository using the `curl` command inside your notebook with:
 
     !curl -O "https://raw.githubusercontent.com/vitorcurtis/RWinOut/master/RWinOut.py"
 
